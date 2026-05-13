@@ -1,0 +1,17 @@
+export 'src/cli/input_helper.dart';
+export 'src/cli/menu.dart';
+export 'src/data/database.dart';
+export 'src/data/repositories/movie_repository.dart';
+export 'src/data/repositories/review_repository.dart';
+export 'src/data/repositories/subscription_repository.dart';
+export 'src/data/repositories/user_repository.dart';
+export 'src/data/repositories/view_history_repository.dart';
+export 'src/domain/models/cinema_user.dart';
+export 'src/domain/models/identity.dart';
+export 'src/domain/models/movie.dart';
+export 'src/domain/models/review.dart';
+export 'src/domain/models/subscription.dart';
+export 'src/domain/models/view_history.dart';
+export 'src/domain/validators/date_validator.dart';
+export 'src/domain/validators/number_validator.dart';
+export 'src/domain/validators/text_validator.dart';
